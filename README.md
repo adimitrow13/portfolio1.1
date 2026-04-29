@@ -1,16 +1,62 @@
-# React + Vite
+# 🌟 Aleks Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A sleek, high-performance, and modern personal portfolio built with React and Vite.
 
-Currently, two official plugins are available:
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![Vanilla CSS](https://img.shields.io/badge/Vanilla_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Welcome to the source code of my personal portfolio! This project was designed from scratch to be visually striking, highly interactive, and fast. It showcases my professional journey, technical skills, and featured projects.
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Modern UI/UX**: Glassmorphism elements, vibrant gradient texts, and a premium aesthetic.
+- **Dynamic Interactions**: Includes a custom trailing cursor and a typewriter text effect.
+- **Scroll Animations**: Smooth "reveal on scroll" animations powered by the `IntersectionObserver` API.
+- **Theme Toggling**: Seamless switching between Dark 🌙 and Light ☀️ modes.
+- **Fully Responsive**: Optimized for desktops, tablets, and mobile devices.
+- **High Performance**: Built with Vite for lightning-fast Hot Module Replacement (HMR) and an optimized production build.
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing.
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation & Running Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/adimitrow13/portfolio1.1.git
+   cd portfolio1.1
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **View the project:**
+   Open [http://localhost:5173](http://localhost:5173) in your web browser to see the live preview.
+
+## 🛠️ Technologies Used
+
+- [React](https://react.dev/) - Core UI Library
+- [Vite](https://vitejs.dev/) - Build Tool and Dev Server
+- **Vanilla CSS3** - Custom styling, flexbox/grid layouts, and animations
+
+## 📬 Let's Connect
+
+Aleks - [hello@example.com](mailto:hello@example.com)
+
+Project Link: [https://github.com/adimitrow13/portfolio1.1](https://github.com/adimitrow13/portfolio1.1)
+
+---
+*If you like this project or find it helpful, feel free to ⭐ the repository!*
