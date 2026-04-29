@@ -215,7 +215,7 @@ function App() {
               <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="social-link" aria-label="LinkedIn"><LinkedinIcon /></a>
             </div>
             <button onClick={toggleTheme} className="theme-toggle" aria-label="Toggle Theme">
-              {theme === 'dark' ? '☀️ Light' : '🌙 Dark'}
+              {theme === 'dark' ? 'Light' : 'Dark'}
             </button>
           </div>
         </div>
